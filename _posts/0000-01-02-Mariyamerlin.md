@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+my name is Mariya Merlin
 Use the left arrow to go back!
